@@ -1,0 +1,3 @@
+C:/Users/Kristina.Kuznetsova/CLionProjects/cpp-sample-app/cmake-build-debug/CMakeFiles/cpp_sample_app.dir
+C:/Users/Kristina.Kuznetsova/CLionProjects/cpp-sample-app/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kristina.Kuznetsova/CLionProjects/cpp-sample-app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
